@@ -1,0 +1,147 @@
+{{short description|Криптовалютный токен на блокчейне TON}}
+{{About|децентрализованном криптовалютном токене|TON Hydra|other uses|Hydra (disambiguation)}}
+
+{| class="infobox" style="width:300px; font-size:90%; line-height:1.4em"
+|+ '''Hydra'''
+|-
+| style="text-align:center;" | [[Файл:TON_HYDRA.png|150px]]
+|-
+| style="text-align:center; font-size:85%;" | Официальный логотип Hydra
+|-
+! Оригинальное название
+| Hydra
+|-
+! Тикер
+| $HYDRA
+|-
+! Блокчейн
+| [[The Open Network|TON]]
+|-
+! Стандарт токена
+| [[Jetton (блокчейн TON)|Jetton]]
+|-
+! Адрес контракта
+| <code style="word-break: break-all;">EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_</code>
+|-
+! Консенсус
+| [[Proof-of-Liquidity]] (заявлено)
+|-
+! Автор
+| Команда Hydra Coin (Sonya, Ihor.ton и др.)<ref name="TONCultureKings">{{Cite web |url=https://blog.ton.org/ton-culture-kings-hydra |title=TON Culture Kings: Hydra |website=TON Blog |access-date=2024-05-15}}</ref>
+|-
+! Дата выпуска
+| 5 мая 2023 года<ref name="fortune_launch">{{Cite web |url=https://tonviewer.com/transaction/e308a5212dbceb9b479c481c00bddbbee404e4ec58165872437dde08a9449c28 |title=Hydra Token Launched on TON Blockchain |website=TON Viewer |date=2023-05-05 |access-date=2024-05-15}}</ref>
+|-
+! Общая эмиссия
+| 10 000 000 $HYDRA<ref name="tonhydra_tokenomics">{{Cite web |url=https://tonhydra.com/tokenomics |title=Tokenomics |website=tonhydra.com |access-date=2024-05-15}}</ref>
+|-
+! Из них заблокировано
+| 8 500 000 $HYDRA (85%, пулы вознаграждений)<ref name="tonhydra_tokenomics"/>
+|-
+! Циркулирует
+| ~1 500 000 $HYDRA (на май 2024)<ref name="source1_tokenomics">{{Cite web |url=https://example.com |title=Source |access-date=2024-05-15}}</ref><br/>
+• ~1 300 000 — в смарт-контрактах<br/>
+• ~200 000 — у пользователей
+|-
+! Сайт
+| [https://tonhydra.com tonhydra.com]
+|-
+! Обозреватели
+| [https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ Tonviewer]<br/>
+[https://ton.app/en/jettons/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ Ton.app]
+|}
+
+'''Hýdra''' ({{IPAc-en|ˈ|h|aɪ|d|r|ə}}) — [[токен (блокчейн)|токен]] [[децентрализация|децентрализованной]] [[криптовалюта|криптовалюты]], созданный 5 мая 2023 года<ref name="fortune_launch"/> на [[блокчейн|блокчейне]] '''[[The Open Network|The Open Network (TON)]]'''. Проект позиционирует себя как токен с механизмом, названным командой «Proof of Liquidity» (доказательство [[ликвидность|ликвидности]]), на блокчейне TON<ref name="TONCultureKings"/><ref name="tonresear_ch">{{Cite web |url=https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 |title=Hydra Coin - The real decentralization? |website=TON Research Forum |access-date=2024-05-15}}</ref>.
+
+== Концепция и цели ==
+Проект Hydra Coin декларирует своей целью создание экосистемы, предоставляющей пользователям возможность получения дохода от предоставления [[ликвидность (экономика)|ликвидности]] в пулах [[децентрализованные финансовые сервисы|DeFi]]<ref name="source1_passive_income_edu">{{Cite web |title=Hydra Coin: Passive Income from Liquidity Pools (перевод с английского) |url= |website= |access-date=2024-05-15 |quote=The Hydra Coin project offers users a unique opportunity to earn passive income from liquidity pools.}}</ref>.
+
+=== Proof of Liquidity ===
+Hydra позиционируется как токен, использующий механизм, названный командой «Proof of Liquidity» (PoL)<ref name="TONCultureKings"/><ref name="source4_pol">{{Cite web |title=Hydra: Proof of Liquidity (перевод с английского) |url= |website= |access-date=2024-05-15 |quote=Bitcoin - Proof of work, TON - Proof of stake, Hydra - Proof of liquidity}}</ref>. В отличие от [[Доказательство выполнения работы|Proof-of-Work (PoW)]] и [[Proof-of-Stake|Proof-of-Stake (PoS)]], PoL, по заявлениям разработчиков, позволяет пользователям получать вознаграждение (токены HYDRA) за предоставление ликвидности в пулы на [[децентрализованная биржа|децентрализованных биржах (DEX)]], таких как DeDust.io<ref name="TONCultureKings"/> и Ston.fi<ref name="stonfi_listing_ref">{{Cite web |url=https://app.ston.fi/swap?chartVisible=false&ft=HYDRA&tt=STON |title=HYDRA/STON on Ston.fi |website=Ston.fi |access-date=2024-05-15}}</ref>. Участники получают комиссию от торговых операций в пуле, а также дополнительные токены HYDRA в качестве вознаграждения за «бустинг» (усиление) пула<ref name="source1_passive_income_edu"/><ref name="TONCultureKings"/>. Команда утверждает, что такой подход не требует значительных капиталовложений, характерных для майнинга или стейкинга, и делает участие в пулах ликвидности доступным для широкой аудитории<ref name="TONCultureKings"/><ref name="source6_pol_easy">{{Cite web |url=https://dyor.io/blog/hydra-token/ |title=HYDRA Token on the TON Blockchain: The History and Plans |website=DYOR.io |date=2025-02-28 |access-date=2024-05-15 |quote=TON HYDRA uses a new system called Proof of Liquidity (PoL), which makes it easier for people to earn rewards without needing a lot of money for staking, validation, or mining.}}</ref>.
+
+== Токеномика ==
+Токеномика проекта Hydra разработана с акцентом на долгосрочное устойчивое развитие и вознаграждение поставщиков ликвидности<ref name="source1_passive_income_edu"/><ref name="TONCultureKings"/>.
+
+=== Эмиссия и распределение ===
+Общая [[эмиссия (экономика)|эмиссия]] токенов HYDRA составляет '''10 000 000''' монет<ref name="tonhydra_tokenomics"/>. Распределение выглядит следующим образом:
+
+'''Заблокированные средства для будущих вознаграждений:'''  
+Количество: '''8 500 000 $HYDRA''' (85% от общей эмиссии).  
+Механизм: Эти токены заморожены на смарт-контрактах (например, через сервис TonRaffles<ref name="tonhydra_tokenomics"/>) и предназначены для постепенного распределения в качестве вознаграждений в пулах ликвидности на протяжении многих лет. Пул с [[TON (криптовалюта)|TON]] продлён до 2038 года, а с [[Tether (криптовалюта)|USDT]] — до 2054 года, что, по заявлениям команды, обеспечивает функционирование токена на десятилетия<ref name="source10_pool_duration"/><ref name="source10_pool_duration_usdt"/>.
+
+'''Средства для текущих вознаграждений в пулах:'''  
+Количество: '''~1 200 000 - 1 434 000 $HYDRA''' (~12-14.34% от общей эмиссии).  
+Механизм: Эти токены находятся на смарт-контрактах [[децентрализованная биржа|DEX]] и используются для «бустинга» (усиления) существующих пулов ликвидности, вознаграждая их провайдеров<ref name="source1_tokenomics"/><ref name="source6_tokenomics_distrib"/>.
+
+'''Первоначальная ликвидность:'''  
+Количество: '''~66 000 $HYDRA''' (~0.66% от общей эмиссии).  
+Механизм: Эта часть была направлена на создание первоначальной ликвидности на [[децентрализованная биржа|DEX]]<ref name="source6_tokenomics_distrib"/><ref name="tonhydra_tokenomics"/>.
+
+=== Ключевые особенности токеномики ===
+'''Отсутствие предпродаж (Presale):''' Команда проекта заявляет, что распределение монет происходит исключительно через механизм вознаграждений за предоставление ликвидности на [[децентрализованная биржа|DEX]]. Утверждается, что у проекта не было предпродаж, и даже основатель проекта приобретал токены с рынка на общих основаниях<ref name="source1_tokenomics"/><ref name="tonhydra_tokenomics"/>.
+
+'''Сжигание LP-токенов первоначальной ликвидности:''' LP-токены, полученные от внесения первоначальной доли ликвидности (0.66%), были сожжены<ref name="tonhydra_tokenomics_lp_burn">{{Cite web |url=https://tonhydra.com |title=Hydra Coin Official Website - Tokenomics |website=tonhydra.com |access-date=2024-05-15 |quote=Primary circulation 0.66% of primary liquidity coins (LP tokens were burned)}}</ref>. Это означает, что данная ликвидность заблокирована в пуле и не может быть изъята. Вознаграждения, которые генерирует эта доля ликвидности, также подлежат сжиганию, уменьшая общее циркулирующее предложение<ref name="tonhydra_tokenomics_burn"/>.
+
+'''Количество держателей:''' По данным на май 2024 года, количество уникальных адресов, владеющих токеном HYDRA, составляло около 33 500<ref name="source10_holders_tonapp"/><ref name="source10_holders_tonviewer"/>.
+
+Проект использует слоган "In TON We Trust", который размещен на официальном сайте в разделе брендинга и подчеркивает приверженность экосистеме TON<ref name="tonhydra_brand">{{Cite web |url=https://www.tonhydra.com/brand |title=Hydra Brand Assets |website=tonhydra.com |access-date=2024-05-15}}</ref>.
+
+== Механизмы работы ==
+=== Пулы ликвидности ===
+Hydra интегрирована с более чем 60 пулами ликвидности на [[децентрализованная биржа|DEX]], таких как DeDust.io и Ston.fi, связывая токен HYDRA с различными другими токенами на блокчейне TON<ref name="TONCultureKings"/><ref name="tonhydra_tokenomics"/>. Это, по заявлениям команды, создаёт диверсификацию и позволяет держателям других токенов участвовать в пулах с HYDRA, не продавая свои основные активы<ref name="source2_pools_diversification">{{Cite web |url=https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 |title=Hydra Coin - The real decentralization? |website=TON Research Forum |access-date=2024-05-15 |quote=Данная диверсификация пулов создаёт лёгкий старт для холдеров других монет.}}</ref>. DeDust.io автоматически реинвестирует комиссии за обмен обратно в пул ликвидности, увеличивая долю провайдеров<ref name="TONCultureKings"/>. Команда также упоминает использование "маршрутизации" (routing) на DeDust, которая через арбитражных ботов может способствовать перераспределению ликвидности между пулами<ref name="TONCultureKings"/>.
+
+=== Образовательные инициативы и инструменты ===
+Команда проекта заявляет о работе над образовательными материалами, включая видеоуроки для начинающих пользователей по работе с криптовалютами и пулами ликвидности<ref name="source1_passive_income_edu"/><ref name="TONCultureKings"/>. Планируется создание ботов для упрощения взаимодействия с пулами ликвидности с использованием игровых механик<ref name="source1_passive_income_edu"/>. Уже создан бот @TonHydraBot для упрощения взаимодействия с [[децентрализованная биржа|DEX]]<ref name="TONCultureKings"/>.
+
+== Экосистема и партнерства ==
+Hydra стремится поддерживать другие проекты на TON, в том числе те, которые столкнулись с трудностями<ref name="TONCultureKings"/>. В интервью упоминается партнерство с 65 токенами и интеграция с различными сервисами и проектами в экосистеме TON, такими как SCALE, JVault, Raffles, Web3, Lucky, Microdiving, Dyor, Bolt, DHD Holders, Sharks Club, IVS, ScamScore, Potato, Grabs, CAVI, Fish, Kingy и DAO LLama<ref name="TONCultureKings"/>.
+
+=== Интеграция с NFT ===
+Команда Hydra планирует развивать использование [[невзаимозаменяемый токен|NFT]] в своей экосистеме. Заявлено намерение интегрировать коллекцию TON DOODLES, а также собственные NFT проекта — HYDRANTS, которые будут предоставлять бонусы в будущей игре и иметь механизм майнинга токенов<ref name="TONCultureKings"/>. Также планируется интеграция NFT других проектов-амбассадоров в качестве локаций в игре<ref name="TONCultureKings"/>. Hydra Coin используется как средство платежа на NFT-маркетплейсе Tonex<ref name="source7_youtube_tonex">{{Cite web |title=Обзор возможностей Hydra Coin (на основе субтитров YouTube) |url= |website=YouTube |access-date=2024-05-15 |quote=...мы прошли листинг на nft маркетплейсе tonex где теперь вы можете продавать и приобретать любые nft за монеты гидроком.}}</ref>.
+
+== Достижения и признание ==
+'''The Open League:''' Hydra принимала участие в нескольких сезонах соревнований The Open League, организованных TON Foundation:  
+** 2-й сезон (Малая лига токенов): 17 место<ref name="source3_tol_s2">{{Cite web |url=https://blog.ton.org/tol-season-2-results-just-landed |title=TON Open League Season 2 Results |website=TON Blog |access-date=2024-05-15}}</ref>.  
+** 3-й сезон (Малая лига токенов): 1 место<ref name="source3_tol_s3">{{Cite web |url=https://blog.ton.org/the-open-league-season-3-results |title=TON Open League Season 3 Results |website=TON Blog |access-date=2024-05-15}}</ref>.  
+** 4-й сезон (Большая лига токенов): 3 место (приз $100,000 на развитие проекта)<ref name="source3_tol_s4">{{Cite web |url=https://blog.ton.org/the-open-league-season-4-results-new-champions-emerge |title=TON Open League Season 4 Results |website=TON Blog |access-date=2024-05-15}}</ref><ref name="TONCultureKings"/>.  
+** 5-й сезон (Большая лига токенов): 7 место<ref name="source3_tol_s5">{{Cite web |url=https://blog.ton.org/these-are-the-best-projects-of-the-open-league-season-5 |title=TON Open League Season 5 Results |website=TON Blog |access-date=2024-05-15}}</ref>.
+
+'''Листинги и верификации:''' Токен прошел листинг или верификацию на платформах DeDust.io, Ston.fi<ref name="stonfi_listing_ref"/>, Tonco.io<ref name="tonco_listing_ref">{{Cite web |url=https://app.tonco.io/#/pool/EQBQxcY1FVDlG03gPK_GmzSmt1XlJsbKWvTiwjZaTseAWQLF |title=HYDRA on Tonco.io |website=Tonco.io |access-date=2024-05-15}}</ref>, @xRocket (Telegram-бот), @OpenShieldBot (Telegram-бот), CoinGecko, Dyor.io, GeckoTerminal, Tonviewer, Tonex, EXTON, TonBubbles, Jetton.vote и CoinMarketCap<ref name="TONCultureKings"/><ref name="source7_youtube_listings">{{Cite web |title=Обзор достижений Hydra Coin (на основе субтитров YouTube) |url= |website=YouTube |access-date=2024-05-15 |quote=...мы успешно прошли листинг на децентрализованной криптобирже Dust получили верификацию на аналитической платформе Dior а также в популярном Трейдинг терминале geek Terminal Кроме того наш проект подтверждён на платформе Ton Bubbles и прошёл верификацию в blockchain обозревателе openview...}}</ref>.
+
+'''Капитализация и TVL:''' В интервью для блога TON (опубликовано после 4-го сезона Open League в 2024 году) команда заявляла о достижении [[рыночная капитализация криптовалют|капитализации]] в $160,000,000 и совокупного [[Total Value Locked|TVL (Total Value Locked)]] в $3,000,000<ref name="TONCultureKings"/>.
+
+== Команда ==
+Согласно интервью в блоге TON Foundation, ключевыми публичными участниками команды являются<ref name="TONCultureKings"/>:  
+'''Sonya''' — CEO, отвечает за стратегическое развитие. Указано, что TON Foundation располагает подробной информацией о нем.  
+'''Ihor.ton''' — занимается координацией разработки и дизайна, созданием контента, коммуникациями и модерацией.  
+Команда также упоминает сотрудничество с разработчиками из Taiga.Labs, иллюстратором Artemy, дизайнером Maxyao и другими участниками и волонтерами<ref name="TONCultureKings"/>.
+
+== Планы на будущее ==
+[[Файл:TON_HYDRA_(inverted).png|thumb|Инвертированный логотип Hydra, который, по словам команды, также используется в концепции игры Farmizen.<ref name="TONCultureKings"/>]]
+Основным анонсированным будущим проектом является игра '''Farmizen''' — Telegram Mini App, которая будет интегрирована с механиками [[децентрализованная биржа|DEX]], в частности, с предоставлением ликвидности и обменами токенов. Игровой сеттинг предполагает наличие летающих островов (символизирующих проекты-партнеры Hydra), на которых игроки будут выращивать растения. Цель игры — привлечь аудиторию и обучить ее работе с криптовалютами через геймификацию<ref name="TONCultureKings"/><ref name="source6_farmizen">{{Cite web |url=https://dyor.io/blog/hydra-token/ |title=HYDRA Token on the Blockchain: The History and Plans |website=DYOR.io |date=2025-02-28 |access-date=2024-05-15 |quote=In 2024, HYDRA team announced that they were working on a Telegram Mini-App Game called Farmizen.}}</ref>. Логотип Farmizen, по словам команды, является инвертированной версией основного логотипа Hydra и символизирует острова в игре<ref name="TONCultureKings"/>.
+
+== См. также ==
+* [[The Open Network]]
+* [[Децентрализованные финансовые сервисы]]
+* [[Пул ликвидности]]
+* [[Jetton (блокчейн TON)]]
+
+== Примечания ==
+{{Примечания}}
+
+== Ссылки ==
+* {{URL|https://tonhydra.com}} — официальный сайт Hydra Coin
+* [https://blog.ton.org/ton-culture-kings-hydra TON Culture Kings: Hydra] — интервью с командой на официальном блоге TON Foundation
+* [https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ Hydra на Tonviewer]
+* [https://dedust.io/jettons/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ Hydra на DeDust.io]
+* [https://app.ston.fi/swap?chartVisible=false&ft=HYDRA&tt=STON Hydra на Ston.fi]
+* [https://www.coingecko.com/en/coins/hydra-ton Hydra на CoinGecko]
+* [https://coinmarketcap.com/currencies/hydra-on-ton/ Hydra на CoinMarketCap]
+* [https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 Обсуждение Hydra Coin на TON Research Forum]
+* [https://dyor.io/blog/hydra-token/ Обзор Hydra Token на DYOR.io] {{ref-en}} (использовать с осторожностью)
+* [https://switchere.com/guides/what-is-hydra Обзор Hydra на Switchere.com] {{ref-en}} (использовать с осторожностью)
+
+[[Категория:Криптовалюты по алфавиту]]
+[[Категория:Токены на The Open Network]]
+[[Категория:Децентрализованные финансовые сервисы]]
+[[Категория:Программное обеспечение 2023 года]]
