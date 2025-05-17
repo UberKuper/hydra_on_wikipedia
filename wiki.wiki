@@ -1,7 +1,7 @@
 {{short description|Токен на блокчейне TON}}
 {{About|децентрализованном криптовалютном токене|TON Hydra|other uses|Hydra (disambiguation)}}
 {| class="infobox" style="width:300px; font-size:90%; line-height:1.4em"
-|+ '''Hydra | The Open Network'''
+|+ '''Hydra &#124; The Open Network'''
 |-
 | | <div style="display:block; margin: 0 auto;">[[Файл:TON_HYDRA.png|210px]]</div>
 |-
