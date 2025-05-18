@@ -101,7 +101,7 @@ Hydra позиционируется как токен, использующий
 
 == Примечания ==
 {{Примечания}}
-<ref name="dedust_hydra_pools">Список пулов с токеном HYDRA на DeDust: https://dedust.io/pools?prioritizePromoted=false&amp;page=1&amp;sort=tvl_DESC&amp;assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_</ref>
+<ref name="dedust_hydra_pools">{{Cite web |url=https://dedust.io/pools?prioritizePromoted=false&amp;page=1&amp;sort=tvl_DESC&amp;assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=Список пулов с токеном HYDRA на DeDust.io |website=dedust.io |access-date=2025-05-18}}</ref>
 <ref name="tonhydra_tokenomics_first_liquidity">{{Cite web |url=https://dedust.io/portfolio/EQBJrNx8lP9BGN-QkTVv5nJLQZxoO8YqnoXrr_DmUGuGugkX |title=Первоначальная ликвидность — профиль на DeDust.io |website=dedust.io |access-date=2025-05-18}}</ref>
 
 == Ссылки ==
