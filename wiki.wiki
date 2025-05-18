@@ -3,7 +3,7 @@
 {| class="infobox" style="width:300px; font-size:90%; line-height:1.4em"
 |+ '''HYDRA'''
 |-
-| | <div style="display:block; margin: 0 auto;">[[Файл:TON_HYDRA.png|210px]]</div>
+| colspan="2" style="text-align:center;" | [[Файл:TON_HYDRA.png|250px]]
 |-
 | style="text-align:center; font-size:85%;" | Официальный логотип монеты HYDRA
 |-
