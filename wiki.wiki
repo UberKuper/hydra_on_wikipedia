@@ -79,35 +79,33 @@ Hydra позиционируется как токен, использующий
 Количество: '''~1 200 000 - 1 434 000 $HYDRA''' (~12-14.34% от общей эмиссии).  
 Механизм: Эти токены находятся на смарт-контрактах [[децентрализованная биржа|DEX]] и используются для «бустинга» (усиления) существующих пулов ликвидности, вознаграждая их провайдеров<ref name="source1_tokenomics"/><ref name="source6_tokenomics_distrib"/>.
 
-'''Первоначальная ликвидность:'''  
-Количество: '''~66 000 $HYDRA''' (~0.66% от общей эмиссии).  
-Механизм: Эта часть была направлена на создание первоначальной ликвидности на [[децентрализованная биржа|DEX]]<ref name="source6_tokenomics_distrib"/><ref name="tonhydra_tokenomics"/>.
+'''Первоначальная ликвидность'''
 
-=== Ключевые особенности токеномики ===
-'''Отсутствие предпродаж (Presale):''' Команда проекта заявляет, что распределение монет происходит исключительно через механизм вознаграждений за предоставление ликвидности на [[децентрализованная биржа|DEX]]. Утверждается, что у проекта не было предпродаж, и даже основатель проекта приобретал токены с рынка на общих основаниях<ref name="source1_tokenomics"/><ref name="tonhydra_tokenomics"/>.
+* '''Количество:''' ~66 000 $HYDRA (примерно 0.66% от общей эмиссии).
+* '''Механизм:''' Эта часть была направлена на создание первоначальной ликвидности на [[децентрализованная биржа|DEX]]<ref name="source6_tokenomics_distrib" /><ref name="tonhydra_tokenomics" />.
 
-'''Сжигание LP-токенов первоначальной ликвидности:''' LP-токены, полученные от внесения первоначальной доли ликвидности (0.66%), были сожжены<ref name="tonhydra_tokenomics_lp_burn">{{Cite web |url=https://tonhydra.com |title=Hydra Coin Official Website - Tokenomics |website=tonhydra.com |access-date=2025-05-15 |quote=Primary circulation 0.66% of primary liquidity coins (LP tokens were burned)}}</ref>. Это означает, что данная ликвидность заблокирована в пуле и не может быть изъята. Вознаграждения, которые генерирует эта доля ликвидности, также подлежат сжиганию, уменьшая общее циркулирующее предложение<ref name="tonhydra_tokenomics_burn"/>.
+'''Сжигание LP-токенов первоначальной ликвидности'''
 
-'''Количество держателей:''' По данным на май 2025 года, количество уникальных адресов, владеющих токеном HYDRA, составляло около 33 500<ref name="source10_holders_tonapp"/><ref name="source10_holders_tonviewer"/>.
+LP-токены, полученные от внесения первоначальной доли ликвидности (0.66%), были сожжены<ref name="tonhydra_tokenomics_lp_burn">{{Cite web |url=https://tonhydra.com |title=Hydra Coin Official Website — Tokenomics |website=tonhydra.com |access-date=2025-05-15 |quote=Primary circulation 0.66% of primary liquidity coins (LP tokens were burned)}}</ref>. 
+
+Это означает, что данная ликвидность заблокирована в пуле и не может быть изъята. Вознаграждения, которые генерирует эта доля ликвидности, также подлежат сжиганию, уменьшая общее циркулирующее предложение<ref name="tonhydra_tokenomics_burn" />.
+
+
 
 Проект использует слоган "In TON We Trust", который размещен на официальном сайте в разделе брендинга и подчеркивает приверженность экосистеме TON<ref name="tonhydra_brand">{{Cite web |url=https://www.tonhydra.com/brand |title=Hydra Brand Assets |website=tonhydra.com |access-date=2025-05-15}}</ref>.
 
 == Достижения и признание ==
+'''Количество держателей:''' По данным на май 2025 года, количество уникальных адресов, владеющих токеном HYDRA, составляло около 33 500<ref name="source10_holders_tonapp"/><ref name="source10_holders_tonviewer"/>.
+
 '''The Open League:''' Hydra принимала участие в нескольких сезонах соревнований The Open League, организованных TON Foundation:  
 ** 2-й сезон (Малая лига токенов): 17 место<ref name="source3_tol_s2">{{Cite web |url=https://blog.ton.org/tol-season-2-results-just-landed |title=TON Open League Season 2 Results |website=TON Blog |access-date=2025-05-15}}</ref>.  
 ** 3-й сезон (Малая лига токенов): 1 место<ref name="source3_tol_s3">{{Cite web |url=https://blog.ton.org/the-open-league-season-3-results |title=TON Open League Season 3 Results |website=TON Blog |access-date=2025-05-15}}</ref>.  
-** 4-й сезон (Большая лига токенов): 3 место (приз $100,000 на развитие проекта)<ref name="source3_tol_s4">{{Cite web |url=https://blog.ton.org/the-open-league-season-4-results-new-champions-emerge |title=TON Open League Season 4 Results |website=TON Blog |access-date=2025-05-15}}</ref><ref name="TONCultureKings"/>.  
+** 4-й сезон (Большая лига токенов): 3 место<ref name="source3_tol_s4">{{Cite web |url=https://blog.ton.org/the-open-league-season-4-results-new-champions-emerge |title=TON Open League Season 4 Results |website=TON Blog |access-date=2025-05-15}}</ref><ref name="TONCultureKings"/>.  
 ** 5-й сезон (Большая лига токенов): 7 место<ref name="source3_tol_s5">{{Cite web |url=https://blog.ton.org/these-are-the-best-projects-of-the-open-league-season-5 |title=TON Open League Season 5 Results |website=TON Blog |access-date=2025-05-15}}</ref>.
 
 '''Листинги и верификации:''' Токен прошел листинг или верификацию на платформах DeDust.io, Ston.fi<ref name="stonfi_listing_ref"/>, Tonco.io<ref name="tonco_listing_ref">{{Cite web |url=https://app.tonco.io/#/pool/EQBQxcY1FVDlG03gPK_GmzSmt1XlJsbKWvTiwjZaTseAWQLF |title=HYDRA on Tonco.io |website=Tonco.io |access-date=2025-05-15}}</ref>, @xRocket (Telegram-бот), @OpenShieldBot (Telegram-бот), CoinGecko, Dyor.io, GeckoTerminal, Tonviewer, Tonex, EXTON, TonBubbles, Jetton.vote и CoinMarketCap<ref name="TONCultureKings"/><ref name="source7_youtube_listings">{{Cite web |title=Обзор достижений Hydra Coin (на основе субтитров YouTube) |url= |website=YouTube |access-date=2025-05-15 |quote=...мы успешно прошли листинг на децентрализованной криптобирже Dust получили верификацию на аналитической платформе Dior а также в популярном Трейдинг терминале geek Terminal Кроме того наш проект подтверждён на платформе Ton Bubbles и прошёл верификацию в blockchain обозревателе openview...}}</ref>.
 
-'''Капитализация и TVL:''' В интервью для блога TON (опубликовано после 4-го сезона Open League в 2024 году) команда заявляла о достижении [[рыночная капитализация криптовалют|капитализации]] в $160,000,000 и совокупного [[Total Value Locked|TVL (Total Value Locked)]] в $3,000,000<ref name="TONCultureKings"/>.
-
-== Команда ==
-Согласно интервью в блоге TON Foundation, ключевыми публичными участниками команды являются<ref name="TONCultureKings"/>:  
-'''Sonya''' — CEO, отвечает за стратегическое развитие. Указано, что TON Foundation располагает подробной информацией о нем. '''Ihor.ton''' — занимается координацией разработки и дизайна, созданием контента, коммуникациями и модерацией.<ref name="TONCultureKings"/>.
-
-[[Файл:TON_HYDRA_(inverted).png|thumb|Инвертированный логотип Hydra. При необходимости используется вместо основного.<ref name="TONCultureKings"/>]]
+'''Капитализация и TVL:''' В интервью для блога TON (опубликовано после 4-го сезона Open League в 2024 году) команда заявляла о достижении [[рыночная капитализация криптовалют|капитализации]] в '''$160,000,000''' и совокупного [[Total Value Locked|TVL (Total Value Locked)]] в '''$3,000,000'''<ref name="TONCultureKings"/>.
 
 == См. также ==
 * [[The Open Network]]
