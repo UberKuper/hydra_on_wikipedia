@@ -1,7 +1,7 @@
 {{short description|Токен на блокчейне TON}}
 {{About|децентрализованном криптовалютном токене|TON Hydra|other uses|Hydra (disambiguation)}}
 {| class="infobox" style="width:300px; font-size:90%; line-height:1.4em"
-|+ '''Hydra &#124; The Open Network'''
+|+ '''HYDRA'''
 |-
 | | <div style="display:block; margin: 0 auto;">[[Файл:TON_HYDRA.png|210px]]</div>
 |-
@@ -26,7 +26,7 @@
 ! Стандарт токена
 | [[Jetton (блокчейн TON)|Jetton]]
 |-
-! Механизм распределения
+! Алгоритм
 | [[Proof-of-Liquidity (PoL)]]
 |-
 ! colspan="2" style="text-align:center;" | Адрес смарт-контракта жетона
@@ -36,16 +36,13 @@
 !colspan="2" style="text-align:center; background:#ccc;"| Токеномика
 |-
 ! Общая эмиссия
-| 10 000 000 $HYDRA <ref name="tonhydra_tokenomics_supply">{{Cite web |url=https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=Tokenomics |website=tonhydra.com |access-date=2025-05-15}}</ref>
+| 10 000 000 $HYDRA <ref name="tonhydra_tokenomics_supply">{{Cite web |url=https://coinmarketcap.com/currencies/hydra-ton/ |title=Hydra Jetton on CMC |website=coinmarketcap.com |access-date=2025-05-15}}</ref>
 |-
 ! Из них заблокировано 
-| 8 470 000 $HYDRA <ref name="tonhydra_tokenomics_lock">{{Cite web |url=https://tonraffles.app/lock/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=Supply |website=tonviewer.com |access-date=2025-05-15}}</ref>
+| 8 470 000 $HYDRA <ref name="tonhydra_tokenomics_lock">{{Cite web |url=https://tonraffles.app/lock/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=Информация о блокировке HYDRA на TonRaffles |website=tonraffles.app |access-date=2025-05-15}}</ref>
 |-
 ! Ревардировано в пулы ликвидности
-| ~1 300 000 $HYDRA <ref name="tonhydra_tokenomics_rewards">{{Cite web |url=https://dedust.io/pools?page=1&assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=DeDust |access-date=2025-05-15}}</ref>
-|-
-! Циркуляция на рынке
-| ~230 000 $HYDRA
+| 1 434 000 $HYDRA <ref name="tonhydra_tokenomics_rewards">{{Cite web |url=https://dedust.io/pools?page=1&assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=DeDust |access-date=2025-05-15}}</ref>
 |-
 !colspan="2" style="text-align:center; background:#ccc;"| Ссылки
 |-
@@ -57,19 +54,19 @@
 [https://ton.app/en/jettons/EQD4P32U10snNoIavoq6cYPTQR2ewAjO20epigrWRAup54_ Ton.app]
 |}
 
-'''Hýdra''' ({{IPAc-en|ˈ|h|aɪ|d|r|ə}}) — [[токен (блокчейн)|токен]] [[децентрализация|децентрализованной]] [[криптовалюта|криптовалюты]], созданный 5 мая 2023 года<ref name="fortune_launch"/> на [[блокчейн|блокчейне]] '''[[The Open Network|The Open Network (TON)]]'''. Проект позиционирует себя как токен с механизмом [[Эмиссия денег|эмиссии]] новых монет за счёт предоставления [[Ликвидность|ликвидности]] в парах с основным токеном HYDRA и другими токенами ''(Jettons)'' блокчейна TON.
+'''Hýdra''' ({{IPAc-en|ˈ|h|aɪ|d|r|ə}}) — [[токен (блокчейн)|токен]] [[децентрализация|децентрализованной]] [[криптовалюта|криптовалюты]], созданный 5 мая 2023 года<ref name="fortune_launch"/> на [[блокчейн|блокчейне]] '''[[The Open Network|The Open Network (TON)]]'''. Проект позиционирует себя как токен с механизмом [[Эмиссия денег|эмиссии]] новых монет за счёт предоставления [[Ликвидность|ликвидности]] в парах с основным токеном HYDRA и другими токенами [[Jetton (блокчейн TON)|жетонами]].
 
 == Концепция и механизм работы ==
-Hydra позиционируется как токен, использующий механизм названный командой «Proof of Liquidity» (PoL)<ref name="TONCultureKings">{{Cite web |url=https://blog.ton.org/ton-culture-kings-hydra |title=TON Culture Kings: Hydra |website=TON Blog |access-date=2025-05-15}}</ref><ref name="source4_pol">{{Cite web |title=Hydra: Proof of Liquidity (перевод с английского) |url= |website= |access-date=2025-05-15 |quote=Bitcoin - Proof of work, TON - Proof of stake, Hydra - Proof of liquidity}}</ref>. В отличие от [[Доказательство выполнения работы|Proof-of-Work (PoW)]] и [[Proof-of-Stake|Proof-of-Stake (PoS)]], PoL позволяет пользователям зарабатывать на предоставлении ликвидности в пулы на [https://en.wikipedia.org/wiki/Decentralized%20finance децентрализованных биржах (DEX)]. 
+Hydra позиционируется как токен, использующий механизм названный командой «Proof of Liquidity» (PoL)<ref name="TONCultureKings">{{Cite web |url=https://blog.ton.org/ton-culture-kings-hydra |title=TON Culture Kings: Hydra |website=TON Blog |access-date=2025-05-15}}</ref><ref name="source4_pol">{{Cite web |title=Hydra: Proof of Liquidity (перевод с английского) |url= |website= |access-date=2025-05-15 |quote=Bitcoin - Proof of work, TON - Proof of stake, Hydra - Proof of liquidity}}</ref>. В отличие от [[Доказательство выполнения работы|Proof-of-Work (PoW)]] и [[Proof-of-Stake|Proof-of-Stake (PoS)]], PoL позволяет пользователям зарабатывать на предоставлении ликвидности в пулы на [[Децентрализованные_финансовые_сервисы|децентрализованных биржах (DEX)]].
 
 ==== Пулы ликвидности Hydra ====
-Существует более 60 ревардированных пулов с монетой '''$HYDRA''' на [[децентрализованная биржа|DEX]], таких как [https://dedust.io/pools?prioritizePromoted=false&page=1&sort=tvl_DESC&assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ DeDust.io] и Ston.fi. Они связывают токен $HYDRA с различными другими токенами на блокчейне TON.<ref name="TONCultureKings" /><ref name="tonhydra_tokenomics" /><ref name="dedust_hydra_pools" />. Это позволяет держателям других токенов интегрироваться в экосистему Hydra без необходимости продавать свои основные активы, поддерживая ликвидностью как их развитие, так и развитие самой Hydra.<ref name="source2_pools_diversification">{{Cite web |url=https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 |title=Hydra Coin - The real decentralization? |website=TON Research Forum |access-date=2025-05-15 |quote=Данная диверсификация пулов создаёт лёгкий старт для холдеров других монет.}}</ref>. DeDust.io автоматически реинвестирует комиссии за обмен обратно в пул ликвидности, увеличивая долю провайдеров<ref name="TONCultureKings"/>. А за счёт механизма "маршрутизации" (routing) на DeDust, арбитражные боты способствуют перераспределению (балансировке) 
+Существует более 60 ревардированных пулов с монетой '''$HYDRA''' на [[децентрализованная биржа|DEX]], таких как DeDust.io и Ston.fi. Они связывают токен $HYDRA с различными другими токенами на блокчейне TON.<ref name="TONCultureKings" /><ref name="tonhydra_tokenomics" /><ref name="dedust_hydra_pools" />. Такая структура пулов дает возможность держателям других токенов предоставлять ликвидность в парах с HYDRA, не продавая свои основные активы. Это способствует поддержанию ликвидности для участвующих токенов и самой Hydra<ref name="source2_pools_diversification">{{Cite web |url=https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 |title=Hydra Coin - The real decentralization? |website=TON Research Forum |access-date=2025-05-15 |quote=Данная диверсификация пулов создаёт лёгкий старт для холдеров других монет.}}</ref>. DEX DeDust автоматически реинвестирует комиссии за обмен обратно в пул ликвидности, увеличивая долю провайдеров<ref name="TONCultureKings"/>. А за счёт механизма "маршрутизации" (routing) на DeDust, арбитражные боты способствуют перераспределению (балансировке) 
 ликвидности между всеми пулами Hydra<ref name="TONCultureKings"/>.
 
 '''Фарминг в рамках PoL''' — это процесс, при котором участники удерживают ликвидность в пулах и получают награды (''rewards'') в монете '''$HYDRA'''. Кроме того, они получают комиссии от [[своп]]ов (покупки и продажи токенов), а также дополнительные реварды в '''$HYDRA''' от протокола. Это схоже со стейкингом в PoS, но ориентировано на поддержку торговой ликвидности. Фарминг предоставляет гибкость: участники могут создавать [[концентрированную ликвидность]], использовать [[LP-токены|Liquidity provider tokens (LP-токены)]] как залог для займов или в других DeFi-протоколах, получая дополнительный доход от сторонних сервисов, продолжая поддерживать ликвидность. Такой подход минимизирует капиталовложения, характерные для майнинга или стейкинга, делая фарминг доступным для широкой аудитории<ref name="source6_pol_easy">{{Cite web |url=https://dyor.io/blog/hydra-token/ |title=HYDRA Token on the TON Blockchain: The History and Plans |website=DYOR.io |date=2025-02-28 |access-date=2025-05-15 |quote=TON HYDRA uses a new system called Proof of Liquidity (PoL), which makes it easier for people to earn rewards without needing a lot of money for staking, validation, or mining.}}</ref>.
 
 == Токеномика и заблокированные средства ==
-Общая [[эмиссия (экономика)|эмиссия]] токенов '''HYDRA''' составляет '''10 000 000''' монет<ref name="tonhydra_tokenomics" />.
+Общая [[эмиссия (экономика)|эмиссия]] токенов '''HYDRA''' составляет '''10 000 000''' монет<ref name="tonhydra_tokenomics_supply">{{Cite web |url=https://coinmarketcap.com/currencies/hydra-ton/ |title=Hydra Jetton on CMC |website=coinmarketcap.com |access-date=2025-05-15}}</ref>
 
 * '''Количество:''' '''8 500 000 $HYDRA''' (85% от общей эмиссии). находятся в [https://tonraffles.app/lock/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ заблокированном состоянии на смарт-контракте] в рамках механизма [https://en.wikipedia.org/wiki/Vesting вестинга].
 
