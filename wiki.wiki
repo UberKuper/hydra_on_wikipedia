@@ -5,18 +5,18 @@
 |-
 | | <div style="display:block; margin: 0 auto;">[[Файл:TON_HYDRA.png|210px]]</div>
 |-
-| style="text-align:center; font-size:85%;" | Официальный логотип монеты Hydra
+| style="text-align:center; font-size:85%;" | Официальный логотип монеты HYDRA
 |-
 !colspan="2" style="text-align:center; background:#ccc;"| Общая информация
 |-
 ! Оригинальное название
-| Hydra
+| HYDRA
 |-
 ! Тикер
 | $HYDRA
 |-
 ! Дата создания
-| 5 мая 2023 года<ref name="fortune_launch">{{Cite web |url=https://tonviewer.com/transaction/e308a5212dbceb9b479c481c00bddbbee404e4ec58165872437dde08a9449c28 |title=Hydra Token Launched on TON Blockchain |website=TON Viewer |date=2023-05-05 |access-date=2025-05-15}}</ref>
+| 5 мая 2023 года<ref name="fortune_launch">{{Cite web |url=https://tonviewer.com/transaction/e308a5212dbceb9b479c481c00bddbbee404e4ec58165872437dde08a9449c28 |title=HYDRA Token Launched on TON Blockchain |website=TON Viewer |date=2023-05-05 |access-date=2025-05-15}}</ref>
 |-
 !colspan="2" style="text-align:center; background:#ccc;"| Технические детали
 |-
@@ -36,7 +36,7 @@
 !colspan="2" style="text-align:center; background:#ccc;"| Токеномика
 |-
 ! Общая эмиссия
-| 10 000 000 $HYDRA <ref name="tonhydra_tokenomics_supply">{{Cite web |url=https://coinmarketcap.com/currencies/hydra-ton/ |title=Hydra Jetton on CMC |website=coinmarketcap.com |access-date=2025-05-15}}</ref>
+| 10 000 000 $HYDRA <ref name="tonhydra_tokenomics_supply">{{Cite web |url=https://coinmarketcap.com/currencies/hydra-ton/ |title=HYDRA Jetton on CMC |website=coinmarketcap.com |access-date=2025-05-15}}</ref>
 |-
 ! Из них заблокировано 
 | 8 470 000 $HYDRA <ref name="tonhydra_tokenomics_lock">{{Cite web |url=https://tonraffles.app/lock/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=Информация о блокировке HYDRA на TonRaffles |website=tonraffles.app |access-date=2025-05-15}}</ref>
@@ -57,7 +57,7 @@
 '''Hýdra''' ({{IPAc-en|ˈ|h|aɪ|d|r|ə}}) — [[токен (блокчейн)|токен]] [[децентрализация|децентрализованной]] [[криптовалюта|криптовалюты]], созданный 5 мая 2023 года<ref name="fortune_launch"/> на [[блокчейн|блокчейне]] '''[[The Open Network|The Open Network (TON)]]'''. Проект позиционирует себя как токен с механизмом [[Эмиссия денег|эмиссии]] новых монет за счёт предоставления [[Ликвидность|ликвидности]] в парах с основным токеном HYDRA и другими токенами [[Jetton (блокчейн TON)|жетонами]].
 
 == Концепция и механизм работы ==
-Hydra позиционируется как токен, использующий механизм названный командой «Proof of Liquidity» (PoL)<ref name="TONCultureKings">{{Cite web |url=https://blog.ton.org/ton-culture-kings-hydra |title=TON Culture Kings: Hydra |website=TON Blog |access-date=2025-05-15}}</ref><ref name="source4_pol">{{Cite web |title=Hydra: Proof of Liquidity (перевод с английского) |url= |website= |access-date=2025-05-15 |quote=Bitcoin - Proof of work, TON - Proof of stake, Hydra - Proof of liquidity}}</ref>. В отличие от [[Доказательство выполнения работы|Proof-of-Work (PoW)]] и [[Proof-of-Stake|Proof-of-Stake (PoS)]], PoL позволяет пользователям зарабатывать на предоставлении ликвидности в пулы на [[Децентрализованные_финансовые_сервисы|децентрализованных биржах (DEX)]].
+$HYDRA позиционируется как токен, использующий механизм названный командой «Proof of Liquidity» (PoL)<ref name="TONCultureKings">{{Cite web |url=https://blog.ton.org/ton-culture-kings-hydra |title=TON Culture Kings: Hydra |website=TON Blog |access-date=2025-05-15}}</ref><ref name="source4_pol">{{Cite web |title=Hydra: Proof of Liquidity (перевод с английского) |url= |website= |access-date=2025-05-15 |quote=Bitcoin - Proof of work, TON - Proof of stake, Hydra - Proof of liquidity}}</ref>. В отличие от [[Доказательство выполнения работы|Proof-of-Work (PoW)]] и [[Proof-of-Stake|Proof-of-Stake (PoS)]], PoL позволяет пользователям зарабатывать на предоставлении ликвидности в пулы на [[Децентрализованные_финансовые_сервисы|децентрализованных биржах (DEX)]].
 
 ==== Пулы ликвидности Hydra ====
 Существует более 60 ревардированных пулов с монетой '''$HYDRA''' на [[децентрализованная биржа|DEX]], таких как DeDust.io и Ston.fi. Они связывают токен $HYDRA с различными другими токенами на блокчейне TON.<ref name="TONCultureKings" /><ref name="tonhydra_tokenomics" /><ref name="dedust_hydra_pools" />. Такая структура пулов дает возможность держателям других токенов предоставлять ликвидность в парах с HYDRA, не продавая свои основные активы. Это способствует поддержанию ликвидности для участвующих токенов и самой Hydra<ref name="source2_pools_diversification">{{Cite web |url=https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 |title=Hydra Coin - The real decentralization? |website=TON Research Forum |access-date=2025-05-15 |quote=Данная диверсификация пулов создаёт лёгкий старт для холдеров других монет.}}</ref>. DEX DeDust автоматически реинвестирует комиссии за обмен обратно в пул ликвидности, увеличивая долю провайдеров<ref name="TONCultureKings"/>. А за счёт механизма "маршрутизации" (routing) на DeDust, арбитражные боты способствуют перераспределению (балансировке) 
@@ -66,13 +66,13 @@ Hydra позиционируется как токен, использующий
 '''Фарминг в рамках PoL''' — это процесс, при котором участники удерживают ликвидность в пулах и получают награды (''rewards'') в монете '''$HYDRA'''. Кроме того, они получают комиссии от [[своп]]ов (покупки и продажи токенов), а также дополнительные реварды в '''$HYDRA''' от протокола. Это схоже со стейкингом в PoS, но ориентировано на поддержку торговой ликвидности. Фарминг предоставляет гибкость: участники могут создавать [[концентрированную ликвидность]], использовать [[LP-токены|Liquidity provider tokens (LP-токены)]] как залог для займов или в других DeFi-протоколах, получая дополнительный доход от сторонних сервисов, продолжая поддерживать ликвидность. Такой подход минимизирует капиталовложения, характерные для майнинга или стейкинга, делая фарминг доступным для широкой аудитории<ref name="source6_pol_easy">{{Cite web |url=https://dyor.io/blog/hydra-token/ |title=HYDRA Token on the TON Blockchain: The History and Plans |website=DYOR.io |date=2025-02-28 |access-date=2025-05-15 |quote=TON HYDRA uses a new system called Proof of Liquidity (PoL), which makes it easier for people to earn rewards without needing a lot of money for staking, validation, or mining.}}</ref>.
 
 == Токеномика и заблокированные средства ==
-Общая [[эмиссия (экономика)|эмиссия]] токенов '''HYDRA''' составляет '''10 000 000''' монет<ref name="tonhydra_tokenomics_supply">{{Cite web |url=https://coinmarketcap.com/currencies/hydra-ton/ |title=Hydra Jetton on CMC |website=coinmarketcap.com |access-date=2025-05-15}}</ref>
+Общая [[эмиссия (экономика)|эмиссия]] токенов '''HYDRA''' составляет '''10 000 000''' монет<ref name="tonhydra_tokenomics_supply">{{Cite web |url=https://coinmarketcap.com/currencies/hydra-ton/ |title=HYDRA Jetton on CMC |website=coinmarketcap.com |access-date=2025-05-15}}</ref>
 
-* '''Количество:''' '''8 500 000 $HYDRA''' (85% от общей эмиссии). находятся в [https://tonraffles.app/lock/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ заблокированном состоянии на смарт-контракте] в рамках механизма [https://en.wikipedia.org/wiki/Vesting вестинга].
+* '''Количество:''' '''8 470 000 $HYDRA''' (85% от общей эмиссии). находятся в [https://tonraffles.app/lock/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ заблокированном состоянии на смарт-контракте] в рамках механизма [https://en.wikipedia.org/wiki/Vesting вестинга].
 
-* '''Количество:''' от '''1 200 000''' до '''1 434 000 $HYDRA''' (~12–14.34% от общей эмиссии) токенов [https://dedust.io/pools?prioritizePromoted=false&page=1&sort=tvl_DESC&assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_&filter=boosted находятся на смарт-контрактах пулов ликвидности DeDust.io] и предназначены для постепенного распределения на протяжении многих лет. 
+* '''Количество:''' от '''1 200 000''' до '''1 434 000 $HYDRA''' (~12–14.34% от общей эмиссии) токенов находятся на смарт-контрактах пулов ликвидности DeDust.io и предназначены для постепенного распределения на протяжении многих лет<ref name="dedust_hydra_pools">{{Cite web |url=https://dedust.io/pools?prioritizePromoted=false&amp;page=1&amp;sort=tvl_DESC&amp;assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=Список пулов с токеном HYDRA на DeDust.io |website=dedust.io |access-date=2025-05-18}}</ref>.
 
-* '''Количество:''' '''66 000 $HYDRA''' (примерно 0.66% от общей эмиссии) была направлена на создание первоначальной ликвидности на децентрализованных биржах. Полученные LP-токены были сожжены, что делает эту ликвидность перманентно заблокированной<ref name="tonhydra_tokenomics_lp_burn">{{Cite web |url=https://tonhydra.com |title=Hydra Coin Official Website — Tokenomics |website=tonhydra.com |access-date=2025-05-15 |quote=Primary circulation 0.66% of primary liquidity coins (LP tokens were burned)}}</ref>. Вознаграждения, генерируемые этой долей ликвидности, также подлежат сжиганию, тем самым уменьшая общее циркулирующее предложение<ref name="tonhydra_tokenomics_first_liquidity" />.
+* '''Количество:''' '''66 000 $HYDRA''' (примерно 0.66% от общей эмиссии) была направлена на создание первоначальной ликвидности на децентрализованных биржах. Полученные LP-токены были сожжены, что делает эту ликвидность перманентно заблокированной<ref name="tonhydra_tokenomics_lp_burn">{{Cite web |url=https://tonhydra.com |title=HYDRA Coin Official Website — Tokenomics |website=tonhydra.com |access-date=2025-05-15 |quote=Primary circulation 0.66% of primary liquidity coins (LP tokens were burned)}}</ref>. Вознаграждения, генерируемые этой долей ликвидности, также подлежат сжиганию, тем самым уменьшая общее циркулирующее предложение<ref name="tonhydra_tokenomics_first_liquidity" />.
 
 
 Токеномика проекта предусматривает постепенное вовлечение токенов в оборот для минимизации давления на цену и поддержки развития экосистемы.
@@ -86,7 +86,7 @@ Hydra позиционируется как токен, использующий
 ** 4-й сезон (Большая лига токенов): 3 место<ref name="source3_tol_s4">{{Cite web |url=https://blog.ton.org/the-open-league-season-4-results-new-champions-emerge |title=TON Open League Season 4 Results |website=TON Blog |access-date=2025-05-15}}</ref><ref name="TONCultureKings"/>.  
 ** 5-й сезон (Большая лига токенов): 7 место<ref name="source3_tol_s5">{{Cite web |url=https://blog.ton.org/these-are-the-best-projects-of-the-open-league-season-5 |title=TON Open League Season 5 Results |website=TON Blog |access-date=2025-05-15}}</ref>.
 
-'''Листинги и верификации:''' Токен прошёл листинг или верификацию на платформах DeDust.io, Ston.fi<ref name="stonfi_listing_ref"/>, Tonco.io<ref name="tonco_listing_ref">{{Cite web |url=https://app.tonco.io/#/pool/EQBQxcY1FVDlG03gPK_GmzSmt1XlJsbKWvTiwjZaTseAWQLF |title=HYDRA on Tonco.io |website=Tonco.io |access-date=2025-05-15}}</ref>, @xRocket (Telegram-бот), @OpenShieldBot (Telegram-бот), CoinGecko, Dyor.io, GeckoTerminal, Tonviewer, Tonex, EXTON, TonBubbles, Jetton.vote и CoinMarketCap<ref name="TONCultureKings"/><ref name="source7_youtube_listings">{{Cite web |title=Обзор достижений Hydra Coin (на основе субтитров YouTube) |url= |website=YouTube |access-date=2025-05-15 |quote=...мы успешно прошли листинг на децентрализованной криптобирже Dust получили верификацию на аналитической платформе Dior а также в популярном Трейдинг терминале geek Terminal Кроме того наш проект подтверждён на платформе Ton Bubbles и прошёл верификацию в blockchain обозревателе openview...}}</ref>.
+'''Листинги и верификации:''' Токен прошёл листинг или верификацию на платформах DeDust.io, Ston.fi<ref name="stonfi_listing_ref"/>, Tonco.io<ref name="tonco_listing_ref">{{Cite web |url=https://app.tonco.io/#/pool/EQBQxcY1FVDlG03gPK_GmzSmt1XlJsbKWvTiwjZaTseAWQLF |title=HYDRA on Tonco.io |website=Tonco.io |access-date=2025-05-15}}</ref>, @xRocket (Telegram-бот), @OpenShieldBot (Telegram-бот), CoinGecko, Dyor.io, GeckoTerminal, Tonviewer, Tonex, EXTON, TonBubbles, Jetton.vote и CoinMarketCap<ref name="TONCultureKings"/>
 
 '''Капитализация и TVL:''' В интервью для блога TON (опубликовано после 4-го сезона Open League в 2024 году) команда заявляла о достижении [[рыночная капитализация криптовалют|капитализации]] в '''$160,000,000''' и совокупного [[Total Value Locked|TVL (Total Value Locked)]] в '''$3,000,000'''<ref name="TONCultureKings"/>.
 
@@ -98,19 +98,19 @@ Hydra позиционируется как токен, использующий
 
 == Примечания ==
 {{Примечания}}
-<ref name="dedust_hydra_pools">{{Cite web |url=https://dedust.io/pools?prioritizePromoted=false&amp;page=1&amp;sort=tvl_DESC&amp;assets=EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ |title=Список пулов с токеном HYDRA на DeDust.io |website=dedust.io |access-date=2025-05-18}}</ref>
+<ref name="dedust_hydra_pools" />
 <ref name="tonhydra_tokenomics_first_liquidity">{{Cite web |url=https://dedust.io/portfolio/EQBJrNx8lP9BGN-QkTVv5nJLQZxoO8YqnoXrr_DmUGuGugkX |title=Первоначальная ликвидность — профиль на DeDust.io |website=dedust.io |access-date=2025-05-18}}</ref>
 
 == Ссылки ==
-* {{URL|https://tonhydra.com}} — официальный сайт Hydra Coin  
+* {{URL|https://tonhydra.com}} — официальный сайт TON HYDRA  
 * [https://blog.ton.org/ton-culture-kings-hydra TON Culture Kings: Hydra] — интервью с командой на официальном блоге TON Foundation  
 * [https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR2ewAjO20epigrWRAup54_ Hydra на Tonviewer]  
 * [https://dedust.io/jettons/EQD4P32U10snNoIavoq6cYPTQR2ewAjO20epigrWRAup54_ Hydra на DeDust.io]  
 * [https://app.ston.fi/swap?chartVisible=false&ft=HYDRA&tt=STON Hydra на Ston.fi]  
 * [https://www.coingecko.com/en/coins/hydra-ton Hydra на CoinGecko]  
 * [https://coinmarketcap.com/currencies/hydra-on-ton/ Hydra на CoinMarketCap]  
-* [https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 Обсуждение Hydra Coin на TON Research Forum]  
-* [https://dyor.io/blog/hydra-token/ Обзор Hydra Token на DYOR.io] {{ref-en}} (использовать с осторожностью)  
+* [https://tonresear.ch/t/hydra-coin-the-real-decentralization/3779 Обсуждение HYDRA Coin на TON Research Forum]  
+* [https://dyor.io/blog/hydra-token/ Обзор HYDRA Token на DYOR.io] {{ref-en}} (использовать с осторожностью)  
 * [https://switchere.com/guides/what-is-hydra Обзор Hydra на Switchere.com] {{ref-en}} (использовать с осторожностью)
 
 [[Категория:Криптовалюты по алфавиту]]
