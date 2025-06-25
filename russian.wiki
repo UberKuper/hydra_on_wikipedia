@@ -47,9 +47,6 @@
 ! Сайт проекта
 | [https://tonhydra.com tonhydra.com]
 |-
-! Обозреватели
-| [https://tonviewer.com/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ Tonviewer]<br/>
-[https://ton.app/en/jettons/EQD4P32U10snNoIavoq6cYPTQR82ewAjO20epigrWRAup54_ Ton.app]
 |}
 
 '''Hydra''' — [[токен (блокчейн)|токен]] [[децентрализация|децентрализованной]] [[криптовалюта|криптовалюты]], созданный 5 мая 2023 года<ref name="fortune_launch"/> на [[блокчейн|блокчейне]] '''[[The Open Network|The Open Network (TON)]]'''. Проект позиционирует себя как токен с механизмом [[эмиссия (экономика)|эмиссии]] новых монет за счёт предоставления [[ликвидность (экономика)|ликвидности]] в парах с основным токеном $HYDRA и другими [[Jetton (блокчейн TON)|жетонами]] блокчейна TON.
